@@ -35,7 +35,7 @@
   "types": "dist/index.d.ts",
   "browser": "dist/browser/index.js",
   "dependencies": {
-    "glob": "7.2.1"
+    "glob": "7.2.2"
   },
   "devDependencies": {
     "@types/bluebird": "3.5.25",
